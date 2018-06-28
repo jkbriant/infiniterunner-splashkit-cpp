@@ -1,4 +1,4 @@
-# infinirun-splashkit-cpp
+# infiniterunner-splashkit-cpp
 
 Compile:
 skm clang++ -o programName ./fileName.cpp
